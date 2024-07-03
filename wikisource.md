@@ -4,7 +4,7 @@
 
 ##### 1902
 
-###### Exported from Wikisource on June 27, 2024
+###### Exported from Wikisource on July 3, 2024
 
 THE CITIZEN'S LIBRARY
 
@@ -84,67 +84,7 @@ The following pages present the substance of a course of twelve lectures on "Dem
 
 In putting them into the form of a book, no attempt has been made to change the somewhat informal style used in speaking. The "we" and "us" which originally referred to the speaker and her audience are merely extended to possible readers.
 
-Acknowledgment for permission to reprint is extended to _The Atlantic Monthly_, _The International Journal of Ethics_, _The American Journal of Sociology_, and to _The Commons._
-
-CONTENTS
-
-PAGE
-
-CHAPTER I
-
-PAGE
-
-Introduction
-
-1
-
-CHAPTER II
-
-Charitable Effort
-
-13
-
-CHAPTER III
-
-Filial Relations
-
-71
-
-CHAPTER IV
-
-Household Adjustment
-
-102
-
-CHAPTER V
-
-Industrial Amelioration
-
-137
-
-CHAPTER VI
-
-Educational Methods
-
-178
-
-CHAPTER VII
-
-Political Reform
-
-221
-
-INDEX
-
-279
-
-This work is in the **public domain** in the **United States** because it was published in 1902, before the cutoff of January 1, 1929.
-
----
-
-The longest-living author of this work died in 1935, so this work is in the **public domain** in countries and areas where the copyright term is the author's **life plus 88 years or less**. This work may be in the **public domain** in countries and areas with longer native copyright terms that apply the **rule of the shorter term** to _foreign works_.
-
-Public domainPublic domainfalsefalse
+Acknowledgment for permission to reprint is extended to _The Atlantic Monthly_, _The International Journal of Ethics_, _The American Journal of Sociology_, and to _The Commons_.
 
 CONTENTS
 
@@ -288,7 +228,7 @@ The most serious effect upon the poor comes when dependence upon the charitable 
 
 If a poor woman knows that her neighbor next door has no shoes, she is quite willing to lend her own, that her neighbor may go decently to mass, or to work; for she knows the smallest item about the scanty wardrobe, and cheerfully helps out. When the charity visitor comes in, all the neighbors are baffled as to what her circumstances may be. They know she does not need a new pair of shoes, and rather suspect that she has a dozen pairs at home; which, indeed, she sometimes has. They imagine untold stores which they may call upon, and her most generous gift is considered niggardly, compared with what she might do. She ought to get new shoes for the family all round, "she sees well enough that they need them." It is no more than the neighbor herself would do, has practically done, when she lent her own shoes. The charity visitor has broken through the natural rule of giving, which, in a primitive society, is bounded only by the need of the recipient and the resources of the giver; and she gets herself into untold trouble when she is judged by the ethics of that primitive society.
 
-The neighborhood understands the selfish rich people who stay in their own part of town, where all their associates have shoes and other things. Such people don't bother themselves about the poor; they are like the rich landlords of the neighborhood experience. But this lady visitor, who pretends to be good to the poor, and certainly does talk as though she were kind-hearted, what does she come for, if she does not intend to give them things which are so plainly needed.
+The neighborhood understands the selfish rich people who stay in their own part of town, where all their associates have shoes and other things. Such people don't bother themselves about the poor; they are like the rich landlords of the neighborhood experience. But this lady visitor, who pretends to be good to the poor, and certainly does talk as though she were kind-hearted, what does she come for, if she does not intend to give them things which are so plainly needed?
 
 The visitor says, sometimes, that in holding her poor family so hard to a standard of thrift she is really breaking down a rule of higher living which they formerly possessed; that saving, which seems quite commendable in a comfortable part of town, appears almost criminal in a poorer quarter where the next-door neighbor needs food, even if the children of the family do not.
 
@@ -442,7 +382,7 @@ This tendency to be so sure of integrity of purpose as to be unsympathetic and h
 
 These women, rightly confident of their household and family integrity and holding to their own code of morals, fail to see the household in its social aspect. Possibly no relation has been so slow to respond to the social ethics which we are now considering, as that between the household employer and the household employee, or, as it is still sometimes called, that between mistress and servant.
 
-This persistence of the individual code in relation to the household may be partly accounted for by the fact that orderly life and, in a sense, civilization itself, grew from the concentration of interest in one place, and that moral feeling first became centred in a limited number of persons. From the familiar proposition that the home began because the mother was obhged to stay in one spot in order to cherish the child, we can see a foundation for the belief that if women are much away from home, the home itself will be destroyed and all ethical progress endangered.
+This persistence of the individual code in relation to the household may be partly accounted for by the fact that orderly life and, in a sense, civilization itself, grew from the concentration of interest in one place, and that moral feeling first became centred in a limited number of persons. From the familiar proposition that the home began because the mother was obliged to stay in one spot in order to cherish the child, we can see a foundation for the belief that if women are much away from home, the home itself will be destroyed and all ethical progress endangered.
 
 We have further been told that the earliest dances and social gatherings were most questionable in their purposes, and that it was, therefore, the good and virtuous women who first stayed at home, until gradually the two—the woman who stayed at home and the woman who guarded her virtue—became synonymous. A code of ethics was thus developed in regard to woman's conduct, and her duties were logically and carefully limited to her own family circle. When it became impossible to adequately minister to the needs of this circle without the help of many people who did not strictly belong to the family, although they were part of the household, they were added as aids merely for supplying these needs. When women were the brewers and bakers, the fullers, dyers, spinners, and weavers, the soap and candle makers, they administered large industries, but solely from the family point of view. Only a few hundred years ago, woman had complete control of the manufacturing of many commodities which now figure so largely in commerce, and it is evident that she let the manufacturing of these commodities go into the hands of men, as soon as organization and a larger conception of their production were required. She felt no responsibility for their management when they were taken from the home to the factory, for deeper than her instinct to manufacture food and clothing for her family was her instinct to stay with them, and by isolation and care to guard them from evil.
 
@@ -750,7 +690,7 @@ The alderman therefore bails out his constituents when they are arrested, or say
 
 It will be difficult to establish genuine civil service among these men, who learn only by experience, since their experiences have been of such a nature that their unanimous vote would certainly be that "civil service" is "no good."
 
-As many of his constituents in this case are impressed with the fact that the aidermanic power is superior to that of government, so instances of actual lawbreaking might easily be cited. A young man may enter a saloon long after midnight, the legal closing hour, and seat himself at a gambling table, perfectly secure from interruption or arrest, because the place belongs to an alderman; but in order to secure this immunity the policeman on the beat must pretend not to see into the windows each time that he passes, and he knows, and the young man knows that he knows, that nothing would embarrass "Headquarters" more than to have an arrest made on those premises. A certain contempt for the whole machinery of law and order is thus easily fostered.
+As many of his constituents in this case are impressed with the fact that the aldermanic power is superior to that of government, so instances of actual lawbreaking might easily be cited. A young man may enter a saloon long after midnight, the legal closing hour, and seat himself at a gambling table, perfectly secure from interruption or arrest, because the place belongs to an alderman; but in order to secure this immunity the policeman on the beat must pretend not to see into the windows each time that he passes, and he knows, and the young man knows that he knows, that nothing would embarrass "Headquarters" more than to have an arrest made on those premises. A certain contempt for the whole machinery of law and order is thus easily fostered.
 
 Because of simple friendliness the alderman is expected to pay rent for the hard-pressed tenant when no rent is forthcoming, to find "jobs" when work is hard to get, to procure and divide among his constituents all the places which he can seize from the city hall. The alderman of the ward we are considering at one time could make the proud boast that he had twenty-six hundred people in his ward upon the public pay-roll. This, of course, included day laborers, but each one felt under distinct obligations to him for getting a position. When we reflect that this is one-third of the entire vote of the ward, we realize that it is very important to vote for the right man, since there is, at the least, one chance out of three for securing work.
 
