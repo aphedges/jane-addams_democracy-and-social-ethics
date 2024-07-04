@@ -2,7 +2,7 @@ To: M.R.S.
 
 ---
 
-## PREFATORY NOTE
+PREFATORY NOTE
 
 The following pages present the substance of a course of twelve lectures on "Democracy and Social Ethics" which have been delivered at various colleges and university extension centres.
 
@@ -10,11 +10,11 @@ In putting them into the form of a book, no attempt has been made to change the 
 
 Acknowledgment for permission to reprint is extended to _The Atlantic Monthly_, _The International Journal of Ethics_, _The American Journal of Sociology_, and to _The Commons_.
 
-## DEMOCRACY AND SOCIAL ETHICS
+DEMOCRACY AND SOCIAL ETHICS
 
-## CHAPTER I
+CHAPTER I
 
-#### INTRODUCTION
+INTRODUCTION
 
 It is well to remind ourselves, from time to time, that "Ethics" is but another word for "righteousness," that for which many men and women of every generation have hungered and thirsted, and without which life becomes meaningless.
 
@@ -52,9 +52,9 @@ We know, at last, that we can only discover truth by a rational and democratic i
 
 The six following chapters are studies of various types and groups who are being impelled by the newer conception of Democracy to an acceptance of social obligations involving in each instance a new line of conduct. No attempt is made to reach a conclusion, nor to offer advice beyond the assumption that the cure for the ills of Democracy is more Democracy, but the quite unlooked-for result of the studies would seem to indicate that while the strain and perplexity of the situation is felt most keenly by the educated and self-conscious members of the community, the tentative and actual attempts at adjustment are largely coming through those who are simpler and less analytical.
 
-## CHAPTER II
+CHAPTER II
 
-#### CHARITABLE EFFORT
+CHARITABLE EFFORT
 
 All those hints and glimpses of a larger and more satisfying democracy, which literature and our own hopes supply, have a tendency to slip away from us and to leave us sadly unguided and perplexed when we attempt to act upon them.
 
@@ -172,9 +172,9 @@ On the other hand, the young woman who has succeeded in expressing her social co
 
 The Hebrew prophet made three requirements from those who would join the great forward-moving procession led by Jehovah. "To love mercy" and at the same time "to do justly" is the difficult task; to fulfil the first requirement alone is to fall into the error of indiscriminate giving with all its disastrous results; to fulfil the second solely is to obtain the stern policy of withholding, and it results in such a dreary lack of sympathy and understanding that the establishment of justice is impossible. It may be that the combination of the two can never be attained save as we fulfil still the third requirement—"to walk humbly with God," which may mean to walk for many dreary miles beside the lowliest of His creatures, not even in that peace of mind which the company of the humble is popularly supposed to afford, but rather with the pangs and throes to which the poor human understanding is subjected whenever it attempts to comprehend the meaning of life.
 
-## CHAPTER III
+CHAPTER III
 
-#### FILIAL RELATIONS
+FILIAL RELATIONS
 
 There are many people in every community who have not felt the "social compunction," who do not share the effort toward a higher social morality, who are even unable to sympathetically interpret it. Some of these have been shielded from the inevitable and salutary failures which the trial of new powers involve, because they are content to attain standards of virtue demanded by an easy public opinion, and others of them have exhausted their moral energy in attaining to the current standard of individual and family righteousness.
 
@@ -236,9 +236,9 @@ Wounded affection there is sure to be, but this could be reduced to a modicum if
 
 Doubtless the clashes and jars which we all feel most keenly are those which occur when two standards of morals, both honestly held and believed in, are brought sharply together. The awkwardness and constraint we experience when two standards of conventions and manners clash but feebly prefigure this deeper difference.
 
-## CHAPTER IV
+CHAPTER IV
 
-#### HOUSEHOLD ADJUSTMENT
+HOUSEHOLD ADJUSTMENT
 
 If we could only be judged or judge other people by purity of motive, life would be much simplified, but that would be to abandon the contention made in the first chapter, that the processes of life are as important as its aims. We can all recall acquaintances of whose integrity of purpose we can have no doubt, but who cause much confusion as they proceed to the accomplishment of that purpose, who indeed are often insensible to their own mistakes and harsh in their judgments of other people because they are so confident of their own inner integrity.
 
@@ -330,9 +330,9 @@ It is comparatively easy for an employer to manage her household industry with a
 
 The problem of domestic service, which has long been discussed in the United States and England, is now coming to prominence in France. As a well-known economist has recently pointed out, the large defection in the ranks of domestics is there regarded as a sign of revolt against an "unconscious slavery," while English and American writers appeal to the statistics which point to the absorption of an enormous number of the class from which servants were formerly recruited into factory employments, and urge, as the natural solution, that more of the products used in households be manufactured in factories, and that personal service, at least for healthy adults, be eliminated altogether. Both of these lines of discussion certainly indicate that domestic service is yielding to the influence of a democratic movement, and is emerging from the narrower code of family ethics into the larger code governing social relations. It still remains to express the ethical advance through changed economic conditions by which the actual needs of the family may be supplied not only more effectively but more in line with associated effort. To fail to apprehend the tendency of one's age, and to fail to adapt the conditions of an industry to it, is to leave that industry ill-adjusted and belated on the economic side, and out of line ethically.
 
-## CHAPTER V
+CHAPTER V
 
-#### INDUSTRIAL AMELIORATION
+INDUSTRIAL AMELIORATION
 
 There is no doubt that the great difficulty we experience in reducing to action our imperfect code of social ethics arises from the fact that we have not yet learned to act together, and find it far from easy even to fuse our principles and aims into a satisfactory statement. We have all been at times entertained by the futile efforts of half a dozen highly individualized people gathered together as a committee. Their aimless attempts to find a common method of action have recalled the wavering motion of a baby's arm before he has learned to coördinate his muscles.
 
@@ -428,9 +428,9 @@ At times of social disturbance the law-abiding citizen is naturally so anxious f
 
 It is as yet most difficult for us to free ourselves from the individualistic point of view sufficiently to group events in their social relations and to judge fairly those who are endeavoring to produce a social result through all the difficulties of associated action. The philanthropist still finds his path much easier than do those who are attempting a social morality. In the first place, the public, anxious to praise what it recognizes as an undoubted moral effort often attended with real personal sacrifice, joyfully seizes upon this manifestation and overpraises it, recognizing the philanthropist as an old friend in the paths of righteousness, whereas the others are strangers and possibly to be distrusted as aliens. It is easy to confuse the response to an abnormal number of individual claims with the response to the social claim. An exaggerated personal morality is often mistaken for a social morality, and until it attempts to minister to a social situation its total inadequacy is not discovered. To attempt to attain a social morality without a basis of democratic experience results in the loss of the only possible corrective and guide, and ends in an exaggerated individual morality but not in social morality at all. We see this from time to time in the care-worn and overworked philanthropist, who has taxed his individual will beyond the normal limits and has lost his clew to the situation among a bewildering number of cases. A man who takes the betterment of humanity for his aim and end must also take the daily experiences of humanity for the constant correction of his process. He must not only test and guide his achievement by human experience, but he must succeed or fail in proportion as he has incorporated that experience with his own. Otherwise his own achievements become his stumbling-block, and he comes to believe in his own goodness as something outside of himself. He makes an exception of himself, and thinks that he is different from the rank and file of his fellows. He forgets that it is necessary to know of the lives of our contemporaries, not only in order to believe in their integrity, which is after all but the first beginnings of social morality, but in order to attain to any mental or moral integrity for ourselves or any such hope for society.
 
-## CHAPTER VI
+CHAPTER VI
 
-#### EDUCATIONAL METHODS
+EDUCATIONAL METHODS
 
 As democracy modifies our conception of life, it constantly raises the value and function of each member of the community, however humble he may be. We have come to believe that the most "brutish man" has a value in our common life, a function to perform which can be fulfilled by no one else. We are gradually requiring of the educator that he shall free the powers of each man and connect him with the rest of life. We ask this not merely because it is the man's right to be thus connected, but because we have become convinced that the social order cannot afford to get along without his special contribution. Just as we have come to resent all hindrances which keep us from untrammelled comradeship with our fellows, and as we throw down unnatural divisions, not in the spirit of the eighteenth-century reformers, but in the spirit of those to whom social equality has become a necessity for further social development, so we are impatient to use the dynamic power residing in the mass of men, and demand that the educator free that power. We believe that man's moral idealism is the constructive force of progress, as it has always been; but because every human being is a creative agent and a possible generator of fine enthusiasm, we are sceptical of the moral idealism of the few and demand the education of the many, that there may be greater freedom, strength, and subtilty of intercourse and hence an increase of dynamic power. We are not content to include all men in our hopes, but have become conscious that all men are hoping and are part of the same movement of which we are a part.
 
@@ -514,9 +514,9 @@ As the poet bathes the outer world for us in the hues of human feeling, so the w
 
 It is because of a lack of democracy that we do not really incorporate him in the hopes and advantages of society, and give him the place which is his by simple right. We have learned to say that the good must be extended to all of society before it can be held secure by any one person or any one class; but we have not yet learned to add to that statement, that unless all men and all classes contribute to a good, we cannot even be sure that it is worth having. In spite of many attempts we do not really act upon either statement.
 
-## CHAPTER VII
+CHAPTER VII
 
-#### POLITICAL REFORM
+POLITICAL REFORM
 
 Throughout this volume we have assumed that much of our ethical maladjustment in social affairs arises from the fact that we are acting upon a code of ethics adapted to individual relationships, but not to the larger social relationships to which it is bunglingly applied. In addition, however, to the consequent strain and difficulty, there is often an honest lack of perception as to what the situation demands.
 
