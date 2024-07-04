@@ -4,7 +4,7 @@
 
 ##### 1902
 
-###### Exported from Wikisource on July 3, 2024
+###### Exported from Wikisource on July 4, 2024
 
 THE CITIZEN'S LIBRARY
 
@@ -138,7 +138,7 @@ INDEX
 
 279
 
-This work is in the **public domain** in the **United States** because it was published in 1902, before the cutoff of January 1, 1929.
+This work is in the **public domain** in the **United States** because it was published before January 1, 1929.
 
 ---
 
@@ -392,7 +392,7 @@ It is quite possible to accept this explanation of the origin of morals, and to 
 
 There are economic as well as ethical reasons for this survival of a simpler code. The wife of a workingman still has a distinct economic value to her husband. She cooks, cleans, washes, and mends—services for which, before his marriage, he paid ready money. The wife of the successful business or professional man does not do this. He continues to pay for his cooking, house service, and washing. The mending, however, is still largely performed by his wife; indeed, the stockings are pathetically retained and their darning given an exaggerated importance, as if women instinctively felt that these mended stockings were the last remnant of the entire household industry, of which they were formerly mistresses. But one industry, the cooking and serving of foods to her own family, woman has never relinquished. It has, therefore, never been organized, either by men or women, and is in an undeveloped state. Each employer of household labor views it solely from the family standpoint. The ethics prevailing in regard to it are distinctly personal and unsocial, and result in the unique isolation of the household employee.
 
-As industrial conditions have changed, the household has simplified, from the mediaeval affair of journeymen, apprentices, and maidens who spun and brewed to the family proper; to those who love each other and live together in ties of affection and consanguinity. Were this process complete, we should have no problem of household employment. But, even in households comparatively humble, there is still one alien, one who is neither loved nor loving.
+As industrial conditions have changed, the household has simplified, from the mediæval affair of journeymen, apprentices, and maidens who spun and brewed to the family proper; to those who love each other and live together in ties of affection and consanguinity. Were this process complete, we should have no problem of household employment. But, even in households comparatively humble, there is still one alien, one who is neither loved nor loving.
 
 The modern family has dropped the man who made its shoes, the woman who spun its clothes, and, to a large extent, the woman who washes them, but it stoutly refuses to drop the woman who cooks its food and ministers directly to its individual comfort; it strangely insists that to do that would be to destroy the family life itself. The cook is uncomfortable, the family is uncomfortable; but it will not drop her as all her fellow-workers have been dropped, although the cook herself insists upon it. So far has this insistence gone that every possible concession is made to retain her. The writer knows an employer in one of the suburbs who built a bay at the back of her house so that her cook might have a pleasant room in which to sleep, and another in which to receive her friends. This employer naturally felt aggrieved when the cook refused to stay in her bay. Viewed in an historic light, this employer might quite as well have added a bay to her house for her shoemaker, and then deemed him ungrateful because he declined to live in it.
 
