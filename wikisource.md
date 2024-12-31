@@ -4,7 +4,7 @@
 
 ##### 1902
 
-###### Exported from Wikisource on July 4, 2024
+###### Exported from Wikisource on December 31, 2024
 
 THE CITIZEN'S LIBRARY
 
@@ -12,7 +12,7 @@ OF
 
 ECONOMICS, POLITICS, AND SOCIOLOGY
 
-
+ 
 
 EDITED BY
 
@@ -20,11 +20,11 @@ RICHARD T. ELY, Ph.D., LL.D.
 
 DIRECTOR OF THE SCHOOL OF ECONOMICS AND POLITICAL SCIENCE, UNIVERSITY OF WISCONSIN
 
-
+ 
 
 ---
 
-
+ 
 
 DEMOCRACY AND SOCIAL ETHICS
 
@@ -32,21 +32,21 @@ _THE CITIZEN'S LIBRARY_
 
 ---
 
-
+ 
 
 DEMOCRACY AND SOCIAL ETHICS
 
-
+ 
 
 BY
 
-
+ 
 
 JANE ADDAMS
 
 HULL-HOUSE, CHICAGO
 
-
+ 
 
 New York
 
@@ -62,15 +62,15 @@ Copyright, 1902,
 
 By THE MACMILLAN COMPANY.
 
-
+ 
 
 ---
 
-
+ 
 
 Set up and electrotyped March, 1902.
 
-
+ 
 
 Norwood Press  
 J.S. Cushing & Co.—Berwick & Smith  
@@ -148,7 +148,7 @@ Public domainPublic domainfalsefalse
 
 DEMOCRACY AND SOCIAL ETHICS
 
-
+ 
 
 CHAPTER I
 
